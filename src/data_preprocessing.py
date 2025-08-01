@@ -14,7 +14,8 @@ def load_and_preprocess_data(filepath: str) -> pd.DataFrame:
     df = pd.read_csv(filepath)
     
     # Convert Date to datetime
-    df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
+    df['Date'] = pd.to_datetime(df['Date'], format='%d-%b-%y', errors='coerce')
+
     
     # Convert Price to numeric (handle missing/invalid values)
     df['Price'] = pd.to_numeric(df['Price'], errors='coerce')
