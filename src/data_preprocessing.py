@@ -32,3 +32,5 @@ if __name__ == "__main__":
     data = load_and_preprocess_data(r"C:\10x AIMastery\brent-oil-change-analysis\data\raw\BrentOilPrices.csv")
     data = add_log_returns(data)
     print(data.head())
+
+
