@@ -1,16 +1,16 @@
 event_name,start_date,event_type,short_description
-OPEC collapse 1986,1986-06-01,Supply Shock,OPEC failed to cut output and Brent fell below $9
-Iran–Iraq war & tanker attacks,1983-03-30,Geopolitical Conflict,Iran–Iraq war disrupted Gulf shipments and raised price risk
-Gulf War (Iraq invades Kuwait),1990-08-02,Geopolitical Conflict,Brent spiked from ~$21 to ~$46 due to invasion
-Asian Financial Crisis 1997,1997-01-01,Demand Shock,Declining demand from Asia led Brent into single-digit range by 1998
-9/11 terrorist attacks,2001-09-11,Geopolitical Terrorism,Immediate ~5% Brent rise, followed by demand‑led fall
-U.S. invasion of Iraq,2003-03-20,Geopolitical Conflict,Supply concerns lifted Brent prices in early 2003
-Emerging‑market demand boom mid‑2000s,2005-06-01,Demand Driven Growth,Strong Asia demand drove Brent from $40 to ~$75
-2008 Financial Crisis spike/fall,2008-07-01,Financial Crisis/Demand Shock,Brent peaked to ~$140 then crashed as recession hit
-Libya Arab Spring supply cut,2011-01-01,Geopolitical Conflict,Libyan unrest disrupted exports and raised Brent above $100
-OPEC+ oversupply collapse,2014-09-01,OPEC Policy/Supply Shock,Shale boom and policy changes crashed Brent to <$30
-2018 demand slowdown & supply fears,2018-10-01,Demand Slowdown,Brent fell ~22% amid global economic slowdown
-Abqaiq–Khurais attack,2019-09-14,Geopolitical Attack,15–20% spike in Brent due to Saudi facility strikes
-COVID‑19 + price war,2020-03-08,Public Health/Supply Shock,Lockdowns and Saudi–Russia price war led to ~24% drop
-Russia–Ukraine war onset,2022-02-24,Geopolitical Conflict,Major price rally (~30%) from supply disruptions
-G7 Russian oil price cap,2022-09-02,Economic Sanctions,Price cap policy influenced market pricing dynamics
+OPEC collapse 1986,1986-06-01,Supply Shock,"OPEC failed to cut output and Brent fell below $9"
+Iran–Iraq war & tanker attacks,1983-03-30,Geopolitical Conflict,"Iran–Iraq war disrupted Gulf shipments and raised price risk"
+Gulf War (Iraq invades Kuwait),1990-08-02,Geopolitical Conflict,"Brent spiked from ~$21 to ~$46 due to invasion"
+Asian Financial Crisis 1997,1997-01-01,Demand Shock,"Declining demand from Asia led Brent into single-digit range by 1998"
+9/11 terrorist attacks,2001-09-11,Geopolitical Terrorism,"Immediate ~5% Brent rise, followed by demand‑led fall"
+U.S. invasion of Iraq,2003-03-20,Geopolitical Conflict,"Supply concerns lifted Brent prices in early 2003"
+Emerging‑market demand boom mid‑2000s,2005-06-01,Demand Driven Growth,"Strong Asia demand drove Brent from $40 to ~$75"
+2008 Financial Crisis spike/fall,2008-07-01,Financial Crisis/Demand Shock,"Brent peaked to ~$140 then crashed as recession hit"
+Libya Arab Spring supply cut,2011-01-01,Geopolitical Conflict,"Libyan unrest disrupted exports and raised Brent above $100"
+OPEC+ oversupply collapse,2014-09-01,OPEC Policy/Supply Shock,"Shale boom and policy changes crashed Brent to <$30"
+2018 demand slowdown & supply fears,2018-10-01,Demand Slowdown,"Brent fell ~22% amid global economic slowdown"
+Abqaiq–Khurais attack,2019-09-14,Geopolitical Attack,"15–20% spike in Brent due to Saudi facility strikes"
+COVID‑19 + price war,2020-03-08,Public Health/Supply Shock,"Lockdowns and Saudi–Russia price war led to ~24% drop"
+Russia–Ukraine war onset,2022-02-24,Geopolitical Conflict,"Major price rally (~30%) from supply disruptions"
+G7 Russian oil price cap,2022-09-02,Economic Sanctions,"Price cap policy influenced market pricing dynamics"
