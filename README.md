@@ -1,7 +1,9 @@
 
 # Brent Oil Price Change Point Analysis
 
-An intelligent analytics platform for detecting and analyzing significant shifts in Brent oil market dynamics using Bayesian statistical modeling.
+An intelligent analytics platform for detecting and analyzing significant shifts in Brent oil market dynamics using Bayesian statistical modeling.  
+
+**Website:** [https://preview--brent-change-story.lovable.app/](https://preview--brent-change-story.lovable.app/)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -111,5 +113,6 @@ The platform enables stakeholders to:
 ## License
 
 This project is licensed under the MIT License.
+
 
 
